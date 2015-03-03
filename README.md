@@ -1,7 +1,14 @@
-# plus-one
+# Plus One
 
-Each new JS file adds a value to the number displaying in index.html. Create a js file which adds one, add script tags to index.html. Be creative!
+### Contributing
 
-Resources:
-http://en.wikipedia.org/wiki/1_%28number%29
-http://en.wikipedia.org/wiki/Addition
+Add a new '.js' file and make sure to include it in `index.html`
+
+You should get the current value of the number in the `#main` div and increment it by one. `hotpotato.js` has been included as an example.
+
+This is a problem that can be quite complex to solve. Get creative.
+
+
+### Resources:
+-http://en.wikipedia.org/wiki/1_%28number%29
+-http://en.wikipedia.org/wiki/Addition
